@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizalsafril
-- 👀 I’m interested in Django & pYthon
+- 👀 I’m interested in Django & Python
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me? Email on rizal.safril@gmail.com
